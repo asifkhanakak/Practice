@@ -12,6 +12,8 @@ void close(){
 	System.out.println("Close methode");
 }
 
+// I made some changes
+
 }
 class JavaFile extends File{
 	
